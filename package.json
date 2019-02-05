@@ -1,6 +1,6 @@
 {
   "name": "kbn-authentication-plugin",
-  "version": "6.3.2",
+  "version": "6.5.4",
   "description": "Prevents unauthorized access to kbn dashboards.",
   "repository": "https://github.com/codingchili/kbn-authentication-plugin",
   "license": "MIT",
